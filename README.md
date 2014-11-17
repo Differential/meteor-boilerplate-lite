@@ -16,7 +16,7 @@ creating easy to use and easy to read applications.
 
 1. Clone this repo to `<yourapp>`
 
-  `git clone https://github.com/Differential/meteor-boilerplate.git <yourapp>`
+  `git clone https://github.com/Differential/meteor-boilerplate-lite.git <yourapp>`
 
 2. Change Directory to `<yourapp>`
 
@@ -46,7 +46,7 @@ client/
     └── base.less   * This file defines your global or base CSS styles
   └── templates/    * This folder holds all of your templates
     └── _shared/    * This folder contains shared templates like layout, header, footer, loading, and not found templates
-    └── dashboard/    
+    └── dashboard/
       ├── dashboard.html
       └── dashboard.js
     └── home/
